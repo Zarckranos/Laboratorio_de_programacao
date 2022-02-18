@@ -1,13 +1,13 @@
 ## Implementação de algoritmos de Ordenação em C++:
-1. Heapsort (pode ser melhorado)
+1. Heapsort
 2. Quicksort com Pivô Fixo
 3. Quicksort com Pivô Aleatório
 4. Introsort sem Insertion Sort
-5. Introsort com Insertion Sort
+5. Introsort com Insertion Sort 
 
 ## O Trabalho também deve gera algumas instâncias:
 1. Aleatorias
-2. Pior Caso (Precisa ser melhorada)
+2. Pior Caso 
 3. Ordem Crescente
 4. Ordem Decrescente
 
@@ -24,3 +24,6 @@
    pelo programa.
 3. **Número de instâncias:** também será um número natural positivo e informará o número de instâncias a
    serem geradas e ordenadas por cada algoritmo implementado.
+
+## Comentario do Professor a respeito da minha solução:
+>Nota: 8,2 Heapsort executando em tempo O(n²). Introsort para "i > f"? Idem para quicksort. Condição errada para chamada do insertionsort no introsort. Instâncias de pior caso todas zeradas, e não construídas conforme o enunciado. Não confere se os vetores estão ordenados. Uso errado do gerador de aleatórios de C++, repetindo criação do gerador (deveria criar só uma vez).
