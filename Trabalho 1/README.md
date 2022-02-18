@@ -16,7 +16,7 @@
 >gasto na ordenação, não incluindo o tempo gasto em procedimentos auxiliares.
 
 ## Compilação e execução do programa:
-g++ -Wall -Wextra -std=c++17 -pedantic -o programa main.cpp
+`g++ -Wall -Wextra -std=c++17 -pedantic -o programa main.cpp`
 
 ## Durante a execução deve ser passado argumentos:
 1. **Tipo de instância:** A (aleatoria), C (ordem crescente), D(ordem decrescente) ou P (pior caso).
