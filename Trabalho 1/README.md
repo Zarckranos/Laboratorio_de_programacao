@@ -18,7 +18,7 @@
 ## Compilação e execução do programa:
 `g++ -Wall -Wextra -std=c++17 -pedantic -o programa main.cpp`
 
-## Durante a execução deve ser passado argumentos:
+### Durante a execução deve ser passado argumentos:
 1. **Tipo de instância:** A (aleatoria), C (ordem crescente), D(ordem decrescente) ou P (pior caso).
 2. **Tamanho do vetor:** número natural positivo informando o tamanho das instâncias a serem geradas 
    pelo programa.
