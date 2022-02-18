@@ -1,5 +1,5 @@
 ## Implementação de algoritmos de Ordenação em C++:
-1. Heapsort
+1. Heapsort (pode ser melhorado)
 2. Quicksort com Pivô Fixo
 3. Quicksort com Pivô Aleatório
 4. Introsort sem Insertion Sort
