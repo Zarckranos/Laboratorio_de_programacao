@@ -22,5 +22,5 @@
 1. **Tipo de instância:** A (aleatoria), C (ordem crescente), D(ordem decrescente) ou P (pior caso).
 2. **Tamanho do vetor:** número natural positivo informando o tamanho das instâncias a serem geradas 
    pelo programa.
-**3. **Número de instâncias:** também será um número natural positivo e informará o número de instâncias a
+3. **Número de instâncias:** também será um número natural positivo e informará o número de instâncias a
    serem geradas e ordenadas por cada algoritmo implementado.
