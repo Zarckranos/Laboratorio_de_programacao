@@ -26,7 +26,7 @@ observe que, caso **l** seja a letra *a*, então o padrão será necessariamente
 é justamente uma instância de pior caso para o algoritmo de força bruta.
 
 ## Instâncias Reiais:
-A chamada do programa para as inst^ancias reais terá a seguinte forma:
+A chamada do programa para as instâncias reais terá a seguinte forma:
 `./programa R [x] [y]`
 
 Sendo x e y números naturais tais que 0 <= x <= y <= 35129.
