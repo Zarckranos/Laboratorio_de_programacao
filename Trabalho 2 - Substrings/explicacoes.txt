@@ -1,0 +1,9 @@
+"Por alguma razão ao gerar as instancias é passado mais caracteres no vetor, o que implica em um vetor um pouco maior do
+que deveria no strlen(). Exemplo, é passado tamanho do padrao igual a 15 e depois de gerar as instancias passa para 22."
+
+O que estar acima foi o que passei no envio anterior, agora consegui consertar de modo que as strings nao recebem mais lixo.
+No entanto, ao colocar entradas como: A [l] 4 1000 [I] o algoritmo parece não executar, ao final não retorna nada. A titulo
+de curiosidade se eu coloco a entrada {R 0 10000} mesmo que demore(aproximadamente 7 min) ainda retorna os valores do tempo.
+O que me leva a pensar que os algoritmos estao corretos e que o problema pode estar na geração de instancias aleatorias, mas
+mesmo assim já olhei varias vezes e nao encontrei o que pode ser. 
+
