@@ -31,8 +31,8 @@ A chamada do programa para as inst^ancias reais terá a seguinte forma:
 
 Sendo x e y números naturais tais que 0 <= x <= y <= 35129.
 1. Para cada índice i de x a y, o programa fornecerá como entrada para os dois algoritmos a instância real de índice i, composta pelo padrão Padroes_Palavras[i]
-e o texto Texto_Livros, sendo Padroes_Palavras e Texto_Livros variáveis definidas no arquivo instancias_Reais_Trabalho_2.hpp, que é fornecido pelo professor (com
-base no conteúdo de um livro de domínio público).
+   e o texto Texto_Livros, sendo Padroes_Palavras e Texto_Livros variáveis definidas no arquivo instancias_Reais_Trabalho_2.hpp, que é fornecido pelo professor (com
+   base no conteúdo de um livro de domínio público).
 2. O tempo total exibido ao final do programa para cada um dos algoritmos será então aquele necessário para resolver as y - x + 1 instâncias reais indexadas de
    x a y, conforme definido no item anterior.
    
