@@ -35,3 +35,6 @@ e o texto Texto_Livros, sendo Padroes_Palavras e Texto_Livros variáveis definid
 base no conteúdo de um livro de domínio público).
 2. O tempo total exibido ao final do programa para cada um dos algoritmos será então aquele necessário para resolver as y - x + 1 instâncias reais indexadas de
    x a y, conforme definido no item anterior.
+   
+## Comentário do professor a respeito da minha solução:
+Nota: 8,5. Os testes de instâncias aleatórias levaram a erro de execução.
