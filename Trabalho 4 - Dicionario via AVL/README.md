@@ -1,5 +1,5 @@
 ## Resumo:
-Implementado em C++ um dicionário baseado em árvore AVL, conforme a interface apresentada pelo professor. A implementação foi acoplada
+Implementado em C++ de um dicionário baseado em árvore AVL, conforme a interface apresentada pelo professor. A implementação foi acoplada
 a um programa do professor, que realizou uma bateria de testes automáticos sobre as operações de dicionário e sobre as estruturas da
 árvore.
 
